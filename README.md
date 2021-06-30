@@ -5,6 +5,7 @@ Its a 3 step process :
 1. Add both python-18n and pyYAML to the requirements 
 
 python-i18n==0.3.9
+
 PyYAML==5.4.1
 
 2. Add translations in the translations folder as translate.<2letter>.yml file 
